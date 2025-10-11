@@ -110,7 +110,7 @@ pymongo<4.4.1
 # user tables, which are quite large, especially on instances like edx.org.
 # We are pinning this until after all the smaller migrations get handled and then we can migrate this all at once.
 # Issue for unpinning: https://github.com/edx/edx-arch-experiments/issues/760
-social-auth-app-django<=5.4.1
+social-auth-app-django<=5.6.0
 
 # # Date: 2024-10-14
 # # The edx-enterprise is currently using edx-rest-api-client==5.7.1, which needs to be updated first.
