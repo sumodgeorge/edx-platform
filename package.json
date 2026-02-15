@@ -96,7 +96,7 @@
     "uglify-js": "3.19.3",
     "underscore": "1.13.7",
     "underscore.string": "3.3.6",
-    "webpack": "^5.90.3",
+    "webpack": "^5.98.0",
     "webpack-bundle-tracker": "0.4.3",
     "webpack-merge": "4.2.2",
     "which-country": "1.0.0"
